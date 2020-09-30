@@ -1,0 +1,108 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+#introduction-area{
+    height: 500px;
+    width: 100%;
+    background-image: url(images/header-bg.png);
+}
+.name-area{
+    float: left;
+    width: 40%;
+    margin-left: 7%;
+    padding: 10px;
+}
+body p{
+    color: slategray; 
+}
+img{
+    width: 100%;
+    height: 500px;
+    margin: 0px;
+    padding: 0px;
+}
+#name{
+    padding: 20px;
+    margin-top: 90px;
+}
+.shahidul-islam{
+    font-weight: 700;
+    color:orange; 
+    font-size: 40px;
+    margin: 0px;
+    padding: 0px;
+
+}
+#hello{
+    font-size: 30px;
+    font-weight: 500;
+    color: darkslategray; important: !;
+
+}
+.button{
+    background-image: linear-gradient(145deg, salmon, red);
+    padding: 7px;
+    border-radius: 5px;
+    border-style: hidden;
+    color: white;
+}
+#biography-area{
+    height: 500px;
+    width: 100%;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.biography{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+}
+#introduction{
+    padding: 20px;
+    margin-top: 90px;
+    border: 5px;
+}
+#work-area{
+    background-image: url(images/latest-work-bg.png);
+    height: 500px;
+    width: 100%;
+}
+#work-area h3{
+    font-size: 50px;
+    text-align: center;
+}
+#work-area img{
+    float: left;
+    padding: 22px;
+    width: 30%;
+    height: auto;
+}
+#contact-section{
+    height: 500px;
+    background-image: url(images/footer-bg.png);
+}
+#contact-section h4{
+    font-size: 50px;
+    text-align: center;
+}
+#contact-section p{
+    text-align: center;
+}
+#client-name{
+    font-size: 30px;
+    text-align: center;
+}
+#last-box{
+    width: 50%;
+    height: 100px;
+    margin: 5% 15% 0% 25%;
+    padding: 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(145deg, pink, tomato);
+   
+}
+#last-box p{
+    color: white;
+}
